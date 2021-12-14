@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="860a9b06-4c51-42c7-905e-2e1f81595559" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1uUfvVLsHdmdmfeDPlCHLv72CNA" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Turbo\IdeaProjects\aviasales\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\z0var\WebstormProjects\aviasales" />
+      <recent name="C:\Users\Turbo\IdeaProjects\aviasales\src" />
+      <recent name="C:\Users\Turbo\IdeaProjects\aviasales\src\state" />
+      <recent name="C:\Users\Turbo\IdeaProjects\aviasales\src\pages" />
+      <recent name="C:\Users\Turbo\IdeaProjects\aviasales\src\Components\ReduxTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:fix" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:fix" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.predeploy" />
+        <item itemvalue="npm.lint:fix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="860a9b06-4c51-42c7-905e-2e1f81595559" name="Default Changelist" comment="" />
+      <created>1624725319078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624725319078</updated>
+      <workItem from="1624725327668" duration="903000" />
+      <workItem from="1624973382737" duration="666000" />
+      <workItem from="1624981376604" duration="17536000" />
+      <workItem from="1625218463900" duration="27377000" />
+      <workItem from="1625813588897" duration="8343000" />
+      <workItem from="1625849668623" duration="10077000" />
+      <workItem from="1625913104500" duration="1751000" />
+      <workItem from="1625997864406" duration="30876000" />
+      <workItem from="1626286715814" duration="4284000" />
+      <workItem from="1626785890063" duration="28450000" />
+      <workItem from="1626887940713" duration="6074000" />
+      <workItem from="1626943661260" duration="8145000" />
+      <workItem from="1627042554055" duration="25421000" />
+      <workItem from="1627149688970" duration="8835000" />
+      <workItem from="1627289313985" duration="21425000" />
+      <workItem from="1627584148891" duration="5195000" />
+      <workItem from="1627939579692" duration="30436000" />
+      <workItem from="1628339667187" duration="19557000" />
+      <workItem from="1628861897708" duration="18863000" />
+      <workItem from="1629371515081" duration="24736000" />
+      <workItem from="1629461403729" duration="5135000" />
+      <workItem from="1629639842696" duration="22188000" />
+      <workItem from="1629789685867" duration="9313000" />
+      <workItem from="1629964781609" duration="1468000" />
+      <workItem from="1630157570848" duration="10035000" />
+      <workItem from="1630682512886" duration="11624000" />
+      <workItem from="1630943481780" duration="12578000" />
+      <workItem from="1631207612930" duration="16332000" />
+      <workItem from="1631460697457" duration="20476000" />
+      <workItem from="1631602701501" duration="2506000" />
+      <workItem from="1631723612763" duration="14941000" />
+      <workItem from="1631962773384" duration="35862000" />
+      <workItem from="1632220075941" duration="16015000" />
+      <workItem from="1632457407418" duration="1303000" />
+      <workItem from="1632482366884" duration="17307000" />
+      <workItem from="1632737784741" duration="33069000" />
+      <workItem from="1632972639563" duration="8768000" />
+      <workItem from="1633785119495" duration="5128000" />
+      <workItem from="1634051682108" duration="1642000" />
+      <workItem from="1634293853333" duration="24313000" />
+      <workItem from="1634560182004" duration="15691000" />
+      <workItem from="1634579294224" duration="5764000" />
+      <workItem from="1634815744728" duration="2164000" />
+      <workItem from="1635070026384" duration="12721000" />
+      <workItem from="1635325492249" duration="24327000" />
+      <workItem from="1635847103231" duration="32871000" />
+      <workItem from="1636280137772" duration="1382000" />
+      <workItem from="1636654808154" duration="6044000" />
+      <workItem from="1636880844567" duration="28849000" />
+      <workItem from="1637143657752" duration="35114000" />
+      <workItem from="1637403809568" duration="71069000" />
+      <workItem from="1637933934076" duration="22688000" />
+      <workItem from="1638037438654" duration="1219000" />
+      <workItem from="1638181979493" duration="1297000" />
+      <workItem from="1638440008811" duration="17958000" />
+      <workItem from="1638692944760" duration="6460000" />
+      <workItem from="1638780754012" duration="34287000" />
+      <workItem from="1639474870067" duration="15855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
